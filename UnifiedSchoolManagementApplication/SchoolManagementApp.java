@@ -1,0 +1,3 @@
+interface SchoolManagementApp {
+    void integrateSystem();
+}
