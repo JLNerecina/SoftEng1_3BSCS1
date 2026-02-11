@@ -259,8 +259,6 @@ quantity=1
 
 ## Class Diagram
 
-![Adapter Pattern UML Diagram](https://github.com/yourusername/school-management/blob/main/AdapterPatternUML.png)
-
 ```
                     ┌──────────────────────┐
                     │ SchoolManagementApp  │ (Target Interface)
