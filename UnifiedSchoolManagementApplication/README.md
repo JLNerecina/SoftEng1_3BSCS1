@@ -537,7 +537,7 @@ String library = app.integrateSystem(
 
 ---
 
-**Author**: JLNerecina 
+**Author**: JLNerecina   
 **Last Updated**: February 2026   
 **Pattern**: Adapter Pattern  
 **Organization**: Educational Institution  
