@@ -537,7 +537,8 @@ String library = app.integrateSystem(
 
 ---
 
-**Last Updated**: February 2026  
+**Author**: JLNerecina 
+**Last Updated**: February 2026   
 **Pattern**: Adapter Pattern  
 **Organization**: Educational Institution  
 **Application**: Unified School Management System
